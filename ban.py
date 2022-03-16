@@ -1,6 +1,6 @@
-#  Copyright (c) 2022 @TheRiZoeL - RiZoeL
+#  Copyright (c) 2022 @FA9SH - Shadow
 # Telegram Ban All Bot 
-# Creator - RiZoeL
+# Creator - Shadow
 
 import logging
 import re
